@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import { useGet } from "@brightleaf/react-hooks";
+import { useGet } from "@brightleaf/react-hooks/lib/use-get";
 import {
   Button,
   Column,
